@@ -1,0 +1,6 @@
+@Larmo_HostAddress = http://localhost:5080
+
+GET {{Larmo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
